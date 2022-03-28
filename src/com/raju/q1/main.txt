@@ -1,0 +1,1 @@
+Deadlock : When two thread are interdependent or both threads initialising other's methods or the thread itself and none ends for infinity is deadlock.
